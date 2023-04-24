@@ -1,7 +1,7 @@
 
 
 👋 Hi, I'm shir indaporker.</br>
-👀 I'm intrested in Backend, Fronted and full stack.</br>
+👀 I'm intrested in Fronted and full stack.</br>
 🌱 I'm a 4rd year student in Software and Information Systems Engineering, at Ben-Gurion University</br>
 📬You can reach me by my Email: shirindaporker@gmail.com or LinkdIn: https://www.linkedin.com/in/shir-indaporker/</br></br>
 
