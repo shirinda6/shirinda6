@@ -1,7 +1,7 @@
 
 
 👋  Hello! I'm Shir Indaporker.</br>
-🎓  Currently a fourth-year student in Software and Information Systems Engineering, at Ben-Gurion University.</br>
+🎓  Software and Information Systems Engineering (B.Sc.), Ben-Gurion University.</br>
 💻  Proficient in various programming languages such as Java, Python, and JavaScript and various development tools and frameworks.</br>
 👀  Interested in full-stack and fronted development.</br>
 🔍  Seeking new challenges and opportunities to grow as a developer.
