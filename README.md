@@ -6,14 +6,10 @@
 👀  Interested in full-stack and fronted development.</br>
 🔍  Seeking new challenges and opportunities to grow as a developer.
 
-
-📬You can reach me by my Email: shirindaporker@gmail.com or LinkdIn: https://www.linkedin.com/in/shir-indaporker/</br></br>
-
-
-
+📬You can reach me by my Email: shirindaporker@gmail.com or LinkdIn: https://www.linkedin.com/in/shir-indaporker/</br>
 <p >
-<span class="padding-right-2em">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="padding-right-1em">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="35" alt="image" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="35" alt="image" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="35" alt="image" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +17,7 @@
 <img width="35" alt="image" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60" alt="image" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="60" alt="image" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png">&nbsp;&nbsp;&nbsp;<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="35" alt="image" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="40" alt="image" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="40" alt="image" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
