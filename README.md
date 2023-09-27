@@ -3,7 +3,7 @@
 👋  Hello! I'm Shir Indaporker.</br>
 🎓  Software and Information Systems Engineering (B.Sc.), Ben-Gurion University.</br>
 💻  Proficient in various programming languages such as Java, Python, and JavaScript and various development tools and frameworks.</br>
-👀  Interested in full-stack and fronted development.</br>
+👀  Interested in Full stack and Frontend development.</br>
 🔍  Seeking new challenges and opportunities to grow as a developer.
 
 📬You can reach me by my Email: shirindaporker@gmail.com or LinkdIn: https://www.linkedin.com/in/shir-indaporker/</br>
